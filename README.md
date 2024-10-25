@@ -2,8 +2,8 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning java programming 
 - 💞️ I’m looking to collaborate on teams
-- 📫 How to reach me by whatsapp 
-- 😄 Pronouns: nithin
+- 📫 How to reach me by linkedin 
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
