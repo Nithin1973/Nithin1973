@@ -1,7 +1,7 @@
 - 👋 Hi, I’m nithin
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning java programming 
-- 💞️ I’m looking to collaborate on teams
+- 👀 I’m interested in artifical intelligence 
+- 🌱 I’m currently learning python,ai 
+- 💞️ I’m looking to collaborate on mentors
 - 📫 How to reach me by linkedin 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
